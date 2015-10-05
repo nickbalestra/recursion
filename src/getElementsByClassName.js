@@ -3,6 +3,7 @@
 //   return document.getElementsByClassName(className);
 // };
 
+
 // Inner recursive function implementation
 var getElementsByClassName = className => {
   var elements = [];
@@ -18,6 +19,7 @@ var getElementsByClassName = className => {
   searchNodes(document.body);
   return elements;
 };
+
 
 // Self invoking function implementation
 var getElementsByClassName = (className,  node = document.body) => {
