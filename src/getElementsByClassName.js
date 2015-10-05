@@ -33,6 +33,5 @@ var getElementsByClassName = (className,  node = document.body) => {
     elements = elements.concat(getElementsByClassName(className, child))
   });
   
-  searchNodes(document.body);
   return elements;
 };
