@@ -19,4 +19,6 @@ Babeljs.io for transipiling.
 Tests are made with the [Mocha](https://github.com/mochajs/mocha) testing framework.
 Test are located in the ./spec directory. To run the Just open the spec runner file with chrome.
 
-```./SpecRunner.html```
+```
+SpecRunner.html
+```
