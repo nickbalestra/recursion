@@ -1,7 +1,7 @@
 Recursion
 ==============
 
-This is a project I completed as a student at Hack Reactor. This project was worked on with a pair. The project aim to explore the use of recursions while reimplementing polyfills for some native javascript and DOM methods:
+This is a project I completed as a student at Hack Reactor. This project was worked on with a pair. The project aim to explore the use of recursions while reimplementing the following native javascript and DOM methods polyfills:
 
 - getElementByClassName()
 - parseJSON()
